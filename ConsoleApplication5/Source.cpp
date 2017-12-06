@@ -7,7 +7,7 @@ void main()
 {
 	int x;
 	cin >> x;
-
+//Test MSG
 	switch (x)
 	{
 		case 6:
